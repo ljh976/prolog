@@ -1,3 +1,6 @@
+Implemented Prolog with C++.
+
+
 for hw2pr3.cpp, compile and run with:
 
 g++ -std=c++11 -o hw2pr3 hw2pr3.cpp
